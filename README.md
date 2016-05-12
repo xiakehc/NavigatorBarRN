@@ -1,7 +1,7 @@
 # NavigatorBarRN
 Custom navigationBar, supports color, title and jump Component etc.
 
-Support iOS & Android
+Support Platform: iOS & Android
 
 ## Usage
 
