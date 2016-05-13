@@ -9,3 +9,7 @@ Support iOS & Android
 2. `npm install`
 3. iOS: `run in xcode` 
 4. Android : `react-native run-android`
+
+
+
+## Perfermace:

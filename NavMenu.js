@@ -31,12 +31,12 @@ class NavMenu extends React.Component {
         onPress={
           ()=>{
             navigator.push({
-              message:     '向右拖拽关闭页面',
+              message:     'Custome-NavigatorScene',
               name:        'NavigatorBarRNComponent',
 
             });}
           }
-          btnText="从右边向左切入页面(带有透明度变化)"
+          btnText="Click Push Custome NavigatorScene(Text)"
           />
       </ScrollView>
   );

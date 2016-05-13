@@ -13,7 +13,6 @@ import {
 
 var NavMenu = require('./NavMenu');
 var NavigatorBarRN = require('./NavigatorBarRN');
-var textModule = require('./test.android');
 
 const styles = StyleSheet.create({
    container: {
@@ -42,7 +41,7 @@ class  NavigatorDemo extends React.Component  {
   render() {
     var componentScene = (
       <ScrollView contentContainerStyle={styles.scene}>
-        <Text style={styles.messageTextNav}>{'这是一个自定义NavigatorBar组件'}</Text>
+        <Text style={styles.messageTextNav}>{'This is custome NavigatorBar Component'}</Text>
       </ScrollView>
     );
     return(
