@@ -13,5 +13,5 @@ Support Platform: iOS & Android
 
 
 ## Perfermace:
-
+![](https://github.com/WPDreamMelody/NavigatorBarRN/blob/master/exmaplePNG/1.png) 
 
